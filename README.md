@@ -16,7 +16,7 @@ This project sets up a self-hosted [Syncthing](https://syncthing.net) server usi
 ### 1. Clone the Repo
 
 ```bash
-git clone https://your-git-repo-url.git
+git clone https://github.com/Aleksey-Movchanyuk/obsidian-sync-docker
 cd obsidian-sync-docker
 ```
 
